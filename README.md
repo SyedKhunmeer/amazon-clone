@@ -1,4 +1,4 @@
 # amazon-clone
 this is my first project
 <br>
-author-syed khunmeer
+author-syed fazil
